@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T05:56:18.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="2QmrjX6ZUHBRinLosirm" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T06:04:49.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="VUCAb7YP1O2zN-FqXp5F" version="15.6.2" type="github">
   <diagram id="kDu6EHDvQLuY3qDibhTI" name="Page-1">
     <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,19 @@
         <mxCell id="RNfgebm5DFTRYw3DXoym-6" value="CPU 核1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="170" y="150" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JfMttN0KAUnnuHpYbCx6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.641;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RNfgebm5DFTRYw3DXoym-7" target="RNfgebm5DFTRYw3DXoym-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RNfgebm5DFTRYw3DXoym-7" value="寄存器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="155" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfMttN0KAUnnuHpYbCx6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNfgebm5DFTRYw3DXoym-8" target="RNfgebm5DFTRYw3DXoym-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+              <mxPoint x="160" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RNfgebm5DFTRYw3DXoym-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="160" height="100" as="geometry" />
